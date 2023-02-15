@@ -1,0 +1,5 @@
+HG680FJ
+418 led red
+419 led green
+447 led spdif
+448 led green2
